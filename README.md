@@ -1,2 +1,2 @@
 # Linear-Regression
-Given here is the build from scratch a code of linear regression algorithm used in machine learning
+Here the linear regression algorithm is build from scratch using Python language. The model is then compared with the sklearn module's linear regression. 
